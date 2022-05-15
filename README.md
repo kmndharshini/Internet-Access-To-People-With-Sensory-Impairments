@@ -1,0 +1,2 @@
+# Internet-Access-To-People-With-Sensory-Impairments
+This initiative intends to address the challenges that sensory impaired persons confront, also making internet access more accessible. This system records speech using a microphone and converts speech to text and vice-versa, audio files to text, voice search and video search, converts speech to text and sends e-mail, converts sign language to text and vice-versa, converts speech to sign language and vice-versa, detects emotions using speech, detects emotion using facial expressions and recommends songs.
