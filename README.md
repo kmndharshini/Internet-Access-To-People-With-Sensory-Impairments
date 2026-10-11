@@ -3,6 +3,6 @@ This initiative intends to address the challenges that sensory impaired persons 
 
 🎥 Project Demo
 
-![Watch the Demo](https://img.youtube.com/vi/xNcKpsI-Lp0/0.jpg)(https://www.youtube.com/watch?xNcKpsI-Lp0)
+[![Watch the Demo](https://img.youtube.com/vi/xNcKpsI-Lp0/0.jpg)](https://youtu.be/xNcKpsI-Lp0?si=1Jhny-EHZZ3aj2_r)
 
 Click the thumbnail above to watch the project demo on YouTube.
